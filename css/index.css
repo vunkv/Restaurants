@@ -202,13 +202,13 @@ figure {
 }
 
 img {
-  vertical-align: info;
+  vertical-align: middle;
   border-style: none;
 }
 
 svg {
   overflow: hidden;
-  vertical-align: info;
+  vertical-align: middle;
 }
 
 table {
@@ -2632,7 +2632,7 @@ textarea.form-control.is-invalid {
   .form-inline .form-control {
     display: inline-block;
     width: auto;
-    vertical-align: info;
+    vertical-align: middle;
   }
 
   .form-inline .form-control-plaintext {
@@ -2675,7 +2675,7 @@ textarea.form-control.is-invalid {
   font-weight: 400;
   color: #212529;
   text-align: center;
-  vertical-align: info;
+  vertical-align: middle;
   cursor: pointer;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -3681,7 +3681,7 @@ input[type="button"].btn-block {
 .btn-group-vertical {
   position: relative;
   display: inline-flex;
-  vertical-align: info;
+  vertical-align: middle;
 }
 
 .btn-group>.btn,
@@ -4137,7 +4137,7 @@ input[type="button"].btn-block {
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
-  vertical-align: info;
+  vertical-align: middle;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
   -webkit-appearance: none;
@@ -4608,7 +4608,7 @@ input[type="button"].btn-block {
   display: inline-block;
   width: 1.5em;
   height: 1.5em;
-  vertical-align: info;
+  vertical-align: middle;
   content: "";
   background: no-repeat center center;
   background-size: 100% 100%;
@@ -11078,7 +11078,7 @@ a.text-dark:focus {
   width: 2em;
   height: 2em;
   line-height: 2em;
-  vertical-align: info;
+  vertical-align: middle;
 }
 
 .fa-stack-1x,
@@ -14501,7 +14501,7 @@ h1 a.logo-brand {
 .innerpage .breadcrumbs-custom-path li {
   position: relative;
   display: inline-block;
-  vertical-align: info;
+  vertical-align: middle;
   font-size: 18px;
   line-height: 1.5;
   font-weight: 600;
@@ -14537,7 +14537,7 @@ h1 a.logo-brand {
 
 /*--//inner-banner-section--*/
 
-/* .info {
+.info {
   background: url(../img/banner2.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
@@ -14557,7 +14557,7 @@ h1 a.logo-brand {
   left: 0;
   right: 0;
   z-index: -1;
-} */
+}
 
 .welcome-left {
   max-width: 700px;
@@ -14935,7 +14935,7 @@ p.count-text {
   content: '';
   display: inline-block;
   height: 100%;
-  vertical-align: info;
+  vertical-align: middle;
 }
 
 .mfp-align-top .mfp-container:before {
@@ -14945,7 +14945,7 @@ p.count-text {
 .mfp-content {
   position: relative;
   display: inline-block;
-  vertical-align: info;
+  vertical-align: middle;
   margin: 0 auto;
   text-align: left;
   z-index: 1045;
