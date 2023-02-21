@@ -14537,7 +14537,7 @@ h1 a.logo-brand {
 
 /*--//inner-banner-section--*/
 
-.info {
+.infor {
   background: url(../img/banner2.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
@@ -14548,7 +14548,7 @@ h1 a.logo-brand {
   z-index: 1;
 }
 
-.info:before {
+.infor:before {
   content: "";
   background: rgb(16 15 19 / 66%);
   position: absolute;
